@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #52575D;
+    color: #DFD8C8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
